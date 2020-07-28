@@ -4,7 +4,7 @@ Debian Linux のpython3.7で書きました。
   
 ライブラリは、numpy と opencv-python をインストールする必要があります。  
 Windowsではそのまま実行できないと思われますので  
-python3 -m wf3.py  
+python3 wf3.py  
 で実行してください。
 
 MacやLinuxではそのまま実行できるはずですがpython3のインストールされている位置が問題になる場合があります。  
